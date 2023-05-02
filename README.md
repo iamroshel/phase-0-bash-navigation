@@ -263,3 +263,4 @@ we'll learn how to explore what's _in_ these directories.
 
 - [Lifehacker on the Command Line](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 - [More on paths - Wikipedia](http://en.wikipedia.org/wiki/Path_(computing))
+ROshel
